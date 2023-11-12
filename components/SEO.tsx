@@ -81,7 +81,7 @@ export const blogSEO = ({
 
 export const CloudinaryMetaImageUrl = ({
     title,
-    cloudName = "dbsdoq31k",
+    cloudName = "dhoygnjc7",
     imagePublicId = "blog_banner.png",
     cloudinaryUrlBase = "https://res.cloudinary.com",
     version = "v1641893609",
