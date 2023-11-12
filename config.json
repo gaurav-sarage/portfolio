@@ -1,17 +1,17 @@
 {
-    "title": "Aayush Kumar Sahu - Developer and Explorer",
+    "title": "Gaurav Sarage - Fullstack Developer",
     "socialImage": "/socialBanner.png",
-    "username": "aayushmau5",
-    "repoName": "aayushsahu.com",
-    "siteUrl": "https://aayushsahu.com",
+    "username": "gaurav-sarage",
+    "repoName": "portfolio",
+    "siteUrl": "https://gaurav-sarage.vercel.app",
     "user": {
-      "name": "Aayush Kumar Sahu",
-      "email": "aayushmau5@gmail.com",
-      "githubLink": "https://www.github.com/aayushmau5",
-      "linkedinLink": "https://in.linkedin.com/in/aayushmau5",
-      "twitterLink": "https://twitter.com/aayushmau5",
-      "devToLink": "https://dev.to/aayushmau5",
-      "mastodonLink": "https://genserver.social/aayushmau5"
+      "name": "Gaurav Sarage",
+      "email": "gauravsarage.1902@gmail.com",
+      "githubLink": "https://www.github.com/gaurav-sarage",
+      "linkedinLink": "https://in.linkedin.com/in/gaurav-sarage",
+      "twitterLink": "https://twitter.com/0xgauravv",
+      "devToLink": "https://dev.to/",
+      "mastodonLink": "https://genserver.social/"
     }
   }
   
