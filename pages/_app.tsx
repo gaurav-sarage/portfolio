@@ -1,6 +1,13 @@
+import CommandBar from "@/components/React/CommandBar";
+import Layout from "@/components/React/Layout";
+
 function MyApp({ Component, pageProps }) {
     return (
-        <Component {...pageProps} />
+        <CommandBar>
+            <Layout>
+                <Component {...pageProps} />
+            </Layout>
+        </CommandBar>
     );
 }
 
