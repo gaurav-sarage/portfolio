@@ -1,0 +1,54 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: "IBM Plex Sans", -apple-system, BlinkMacSystemFont, Segoe UI,
+    Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue,
+    sans-serif;
+    background-color: #101114;
+    color: white;
+    font-size: 1.15rem;
+    line-height: 1.5;
+    overflow-x: hidden;
+    font-variant-ligatures: none;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+code {
+    font-family: "Jetbrains Mono", monospace;
+    background-color: rgba(77, 77, 77, 0.3);
+}
+
+.styledLink {
+    position: relative;
+    display: flex;
+    align-items: center;
+    width: max-content;
+}
+
+.styledLink::after {
+    content: "";
+    position: absolute;
+    bottom: -4px;
+    left: 0;
+    height: 2px;
+    background-color: white;
+    width: 0;
+    transition: width linear 0.2s;
+}
+
+.styledLink:hover::after,
+.styledLink:focus-visible::after {
+    width: 100%;
+}
