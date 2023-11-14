@@ -1,0 +1,13 @@
+.container {
+    text-align: center;
+    margin-bottom: 5rem;
+}
+
+.container a {
+    margin: 0 auto;
+}
+
+.container svg {
+    height: 25px;
+    width: 25px;
+}
